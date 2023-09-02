@@ -1,6 +1,6 @@
 <h1 align="center">I'm Raghul</h1>
 
-<a href="https://open.spotify.com/track/6ktG3mT7dpj1wtwGXS6blc?si=3051a42aee7b4c6d" target="_blank" rel="noreferrer"> <img src="[https://upload.wikimedia.org/wikipedia/en/2/24/Chainsawman.jpg](https://images2.alphacoders.com/132/1320336.png)" alt="gdev" width="100" height="100"/> </a>
+<a href="https://open.spotify.com/track/6ktG3mT7dpj1wtwGXS6blc?si=3051a42aee7b4c6d" target="_blank" rel="noreferrer"> <img src="https://images2.alphacoders.com/132/1320336.png" alt="gdev" width="100" height="100"/> </a>
 
 <h2>JetBrains Academy Profile</h2>
 <p align="left">
