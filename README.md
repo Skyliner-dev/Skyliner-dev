@@ -2,6 +2,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/18aviih21l?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-size="large" data-lang="ko" data-show-count="false">Follow @18aviih21l</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+  <a href="https://hyperskill.org/profile/320311967" target="_blank" rel="noreferrer"> <img src="https://static.tildacdn.com/tild3439-6164-4633-b839-313038323934/Hyperskill_Logo.svg" alt="hyperskill" width="30" height="30"/> </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
