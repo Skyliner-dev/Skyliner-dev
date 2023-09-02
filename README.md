@@ -2,7 +2,7 @@
 <h3 align="left">My Profiles:</h3>
 <p align="left">
 <a href="https://hyperskill.org/profile/320311967" target="_blank" rel="noreferrer"> <img src="https://static.tildacdn.com/tild3263-3366-4965-b435-633732613832/Hyperskill-logotype-.svg" alt="hyperskill" width="80" height="80"/> </a>
-<a href="https://g.dev/skyline-r" target="_blank" rel="noreferrer"> <img src="https://toppng.com/uploads/preview/oogle-chrome-developer-tools-google-developers-icon-11563029118otjotftm9o.png" alt="hyperskill" width="80" height="80"/> </a>
+<a href="https://g.dev/skyline-r" target="_blank" rel="noreferrer"> <img src="https://www.gstatic.com/devrel-devsite/prod/vbad4fd6eb290ad214822e7a397f826be8dbcc36ca2a922ba48f41fb14286829c/developers/images/lockup-new.svg" alt="gdev" width="80" height="80"/> </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
