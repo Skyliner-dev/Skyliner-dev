@@ -1,7 +1,7 @@
 <h1 align="center">I'm Raghul</h1>
 <h3 align="left">My Profiles:</h3>
 <p align="left">
-<a href="https://hyperskill.org/profile/320311967" target="_blank" rel="noreferrer"> <img src="https://static.tildacdn.com/tild3263-3366-4965-b435-633732613832/Hyperskill-logotype-.svg" alt="hyperskill" width="50" height="50"/> </a>
+<a href="https://hyperskill.org/profile/320311967" target="_blank" rel="noreferrer"> <img src="https://static.tildacdn.com/tild3263-3366-4965-b435-633732613832/Hyperskill-logotype-.svg" alt="hyperskill" width="80" height="80"/> </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
