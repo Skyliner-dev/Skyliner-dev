@@ -1,9 +1,7 @@
 <h1 align="center">I'm Raghul</h1>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a class="twitter-share-button"
-  href="https://twitter.com/intent/tweet">
-Tweet</a>
+<a href="https://twitter.com/intent/tweet?screen_name=18aviih21l&ref_src=twsrc%5Etfw" class="twitter-mention-button" data-show-count="false">Tweet to @18aviih21l</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
