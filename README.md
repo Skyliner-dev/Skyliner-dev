@@ -1,8 +1,7 @@
 <h1 align="center">I'm Raghul</h1>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/18aviih21l?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @18aviih21l</a>
-
+<a href="https://twitter.com/18aviih21l?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-size="large" data-lang="ko" data-show-count="false">Follow @18aviih21l</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
