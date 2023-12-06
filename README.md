@@ -21,4 +21,4 @@ I dont learn programming to make a living,I do it for fun.
 
 ## Connect with me 🫶🏼 
 
-![twitter](https://twitter.com/sraraghul)
+[twitter](https://twitter.com/sraraghul)
