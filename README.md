@@ -9,10 +9,10 @@
 - Swift
 > Xcode
 
-## Jetbrains Academy profile
+#### Jetbrains Academy profile
 [HyperSkill](https://hyperskill.org/profile/320311967)
 
-## Google Developer profile
+#### Google Developer profile
 [G-dev](https://g.dev/skyline-r)
 
 I dont do programming for stats,I do it for fun.
