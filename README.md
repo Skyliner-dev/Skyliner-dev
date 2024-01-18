@@ -6,7 +6,12 @@
 
 - Swift
 
->> Predomenantly uses Intellij IDEA with Android Studio.
+> Android Studio
+>> Intellij IDEA
+> Xcode
+>> Swift
+> Unreal Engine
+>> Blueprints
 
 ## Jetbrains Academy profile
 [HyperSkill](https://hyperskill.org/profile/320311967)
