@@ -1,12 +1,12 @@
-## Skyliner Here!
+# Skyliner Here!
 
--Intermediate to Advance Kotlin knowledge
+- Kotlin
 
--Basic Java and C
+- Unreal Engine
 
--Getting Hold on Unreal Engine
+- Swift
 
--Predomenantly uses Intellij IDEA with Android Studio.
+>> Predomenantly uses Intellij IDEA with Android Studio.
 
 ## Jetbrains Academy profile
 [HyperSkill](https://hyperskill.org/profile/320311967)
