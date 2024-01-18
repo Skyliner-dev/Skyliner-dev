@@ -1,19 +1,13 @@
 # Skyliner Here!
 
 - Kotlin
+> Android Studio
 
 - Unreal Engine
+> Blueprints
 
 - Swift
-
-> Android Studio
->> Intellij IDEA
-
 > Xcode
->> Swift
-
-> Unreal Engine
->> Blueprints
 
 ## Jetbrains Academy profile
 [HyperSkill](https://hyperskill.org/profile/320311967)
