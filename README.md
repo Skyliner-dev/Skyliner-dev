@@ -1,11 +1,11 @@
-- Kotlin
-> Android Studio
+- Proficient
+> Kotlin
 
-- Unreal Engine
-> Blueprints
+- Intermediate
+> GoLang
 
-- Swift
-> Swift UI (Shares common logic from kmp)
+- Beginner
+> Unreal Engine 5
 
 #### Jetbrains Academy  [Hyperskill](https://hyperskill.org/profile/320311967)
 
