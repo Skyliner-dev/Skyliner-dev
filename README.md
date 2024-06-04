@@ -4,12 +4,12 @@
 
 > Training on **Unreal Engine 5.0**
 
--- languages I converse with people: *தமிழ், čeština, english*
+- languages I converse with people: *தமிழ், čeština, english*
 
--- languages I converse with machines: *golang, kotlin, C* 
+- languages I converse with machines: *golang, kotlin, C* 
 
--- frameworks familiar with: *jetpack compose, flask*
+- frameworks familiar with: *jetpack compose, flask*
 
--- libraries I extensively use: *kotlinx, junit, tensorflow*
+- libraries I extensively use: *kotlinx, junit, tensorflow*
 
 [Hyperskill](https://hyperskill.org/profile/320311967)
