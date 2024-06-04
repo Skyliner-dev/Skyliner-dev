@@ -1,15 +1,16 @@
-- Proficient
-> Kotlin
+## **Raghul A**
+> Skyliner-dev
 
-- Intermediate
-> GoLang
+Years of playing around with ==kotlin== and exploring ==kmp== technology.
 
-- Beginner
-> Unreal Engine 5
+Training on ==Unreal Engine 5.0==
 
-#### Jetbrains Academy  [Hyperskill](https://hyperskill.org/profile/320311967)
+languages I converse with people: *தமிழ், čeština, english*
 
-#### Google  [Dev Profile](https://g.dev/skyline-r)
+languages I converse with machines: *golang, kotlin, C* 
 
-#### Connect with me  [X](https://twitter.com/sraraghul)
+frameworks familiar with: *jetpack compose, flask*
 
+libraries I extensively use: *kotlinx, junit, tensorflow*
+
+![[Hyperskill](https://hs.azureedge.net/static/favicons/favicon.ico)](https://hyperskill.org/profile/320311967)
